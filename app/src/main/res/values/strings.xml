@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">intraction 1</string>
+    <string name="view1">View 1</string>
+    <string name="view2">View 2</string>
+    <string name="view3">View 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit">submit</string>
+</resources>
